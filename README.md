@@ -90,7 +90,7 @@ Clone this repository to your desired folder:-
 Run this commands:
 ```sh
 cd my-folder
-git clone git@github.com:VivekRaaZ/portfolio.git
+git clone git@github.com:VivekRaaZ/mobie.git
 ```
 
 ### Install
